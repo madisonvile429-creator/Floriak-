@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "FLORIAK",
+    "slug": "floriak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {"backgroundColor": "#080808"},
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.floriak.app"},
+    "android": {"package": "com.floriak.app", "adaptiveIcon": {"backgroundColor": "#080808"}},
+    "web": {"bundler": "metro"}
+  }
+}
